@@ -1,0 +1,48 @@
+*{
+  background-color: #ed8a63;
+}
+p{
+    .ga-maamli-regular {
+        font-family: "Ga Maamli", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+    height: max-content;
+    font-size: 1rem;
+    background-color: rgba(219, 32, 32, 0.643);
+    margin: 0cqmax;
+    border: 0em;
+    visibility: var(8cqmax);
+    text-decoration: wavy;
+    letter-spacing: 0;
+    word-spacing: 9;
+    }
+    h1{
+font-size: 2.5rem;
+color: #3a4660;
+font-weight: 600;
+    }
+h2{
+color: #845007; 
+font-size: 2rem;
+text-align: center;
+}    
+h3{
+  color: #3a4660;
+  font-size: 1.5rem;
+  text-align: center;
+}
+li{
+  column-gap: 1.5cm;
+  border-color: rgb(241, 210, 173);
+}
+h6{
+color: crimson;
+align-content: center;
+}
+a{
+  background-color: #3a4660;
+  color: #c9af98;
+  text-decoration: wavy;
+  
+}
